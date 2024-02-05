@@ -6,5 +6,6 @@ It would not be possible to list everyone who has helped me on this journey, how
 
 In no particular order:
 + Window Lickers Anonymous, You couldn't ask for better friends.
-+  [rel0aded](https://www.twitter.com/0xRel0aded), Inspiring me to write this book (his own [Ethereum Ecosystem](https://www.ethexplainer.com/) book) and for constantly challenging me.
-+  [Blockcore Community](https://www.blockcore.net/), I've learnt so much from this friendly, talented community. They have provided inspiration, ideas and helped with QA.
++ [rel0aded](https://www.twitter.com/0xRel0aded), Inspiring me to write this book (his own [Ethereum Ecosystem](https://www.ethexplainer.com/) book) and for constantly challenging me.
++ [Blockcore Community](https://www.blockcore.net/), I've learnt so much from this friendly, talented community. They have provided inspiration, ideas and helped with QA.
++ [NCC Group](https://www.nccgroup.com), My employer who permitted me to build a team of blockchain security penetration testers.  Some of this books contents is a reflection of what i have learned through my time here.
